@@ -76,3 +76,11 @@ Separate mirrors and working references used to study established open-source pr
 <sub>Built with care. Styled with a minimal, shadcn-inspired feel.</sub>
 
 </div>
+
+---
+
+## Project Governance
+
+[![CI](https://github.com/aryafatthurahman4-collab/aryafatthurahman4-collab/actions/workflows/ci.yml/badge.svg)](https://github.com/aryafatthurahman4-collab/aryafatthurahman4-collab/actions/workflows/ci.yml)
+
+[Contributing](CONTRIBUTING.md) | [Security Policy](SECURITY.md) | [Code of Conduct](CODE_OF_CONDUCT.md)
