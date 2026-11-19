@@ -7,7 +7,7 @@
 [![Open to opportunities](https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-22c55e?style=for-the-badge)](https://github.com/aryafatthurahman4-collab?tab=repositories)
 ![Location](https://img.shields.io/badge/BASED-JAKARTA%2C%20INDONESIA-0f172a?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/FOCUS-DEVOPS%20%C2%B7%20BACKEND%20%C2%B7%20QA%20%C2%B7%20AI-6366f1?style=for-the-badge)
-![Repositories](https://img.shields.io/badge/REPOSITORIES-50-8b5cf6?style=for-the-badge)
+![Repositories](https://img.shields.io/badge/REPOSITORIES-49-8b5cf6?style=for-the-badge)
 
 </div>
 
@@ -49,6 +49,25 @@ I build and test software end to end: from a clean API and a tested data model, 
 | **Backend & data** | REST/JSON/HTTP, OpenAPI, Java/Quarkus, C#/.NET, Node.js, Laravel, PostgreSQL, MySQL, Redis, Kafka/NATS concepts, SQL tuning and constraints |
 | **Quality engineering** | Test strategy/plan/cases, STLC/SDLC, Playwright, API contract checks, SQL validation, regression/E2E, k6, defect reporting, traceability |
 | **AI & data engineering** | Python, pandas, scikit-learn, PyTorch/TensorFlow, CNN vision, LLM integration concepts, AI-assisted SDLC, Databricks/Snowflake reference work |
+
+## Stack Coverage
+
+Every technology below has a hands-on repository. This is a map of where to find working code, not a list of claims.
+
+| Stack | Repository | What it shows |
+| --- | --- | --- |
+| Terraform | [devops-platform-2026](https://github.com/aryafatthurahman4-collab/devops-platform-2026), [terraform-databricks-sra-modernized](https://github.com/aryafatthurahman4-collab/terraform-databricks-sra-modernized) | VPC/EKS/RDS modules, remote state, validation; Databricks SRA reference |
+| Kubernetes | [k8s](https://github.com/aryafatthurahman4-collab/k8s), [devops-platform-2026](https://github.com/aryafatthurahman4-collab/devops-platform-2026) | Deployments, Services, Ingress, HPA, PDB, NetworkPolicy, Helm chart |
+| Docker | [nextjs-aws-production](https://github.com/aryafatthurahman4-collab/nextjs-aws-production), [backend-service-2026](https://github.com/aryafatthurahman4-collab/backend-service-2026) | Multi-stage builds, non-root images, Compose for local stacks |
+| HTML / CSS | [arya123](https://github.com/aryafatthurahman4-collab/arya123) | Responsive portfolio and web pages |
+| JavaScript / TypeScript | [arya123](https://github.com/aryafatthurahman4-collab/arya123), [pengujian-unit-latihan-soal](https://github.com/aryafatthurahman4-collab/pengujian-unit-latihan-soal), [qa-automation-2026](https://github.com/aryafatthurahman4-collab/qa-automation-2026) | Web UI, Node unit testing, Playwright automation |
+| Laravel / PHP | [hris-itk-laravel](https://github.com/aryafatthurahman4-collab/hris-itk-laravel), [laravel-modernized](https://github.com/aryafatthurahman4-collab/laravel-modernized) | Full HRIS application; framework reference mirror |
+| MySQL | [hris-itk-laravel](https://github.com/aryafatthurahman4-collab/hris-itk-laravel), [mariadb-practicum](https://github.com/aryafatthurahman4-collab/mariadb-practicum) | Schema, migrations, queries, indexes, transactions |
+| MongoDB | [mongodb-practicum](https://github.com/aryafatthurahman4-collab/mongodb-practicum) | Document modeling, aggregation pipeline, indexes, CRUD |
+| MariaDB | [mariadb-practicum](https://github.com/aryafatthurahman4-collab/mariadb-practicum) | SQL design, procedures, triggers, backup and replication notes |
+| PostgreSQL | [backend-service-2026](https://github.com/aryafatthurahman4-collab/backend-service-2026), [aws-rds](https://github.com/aryafatthurahman4-collab/aws-rds) | Flyway migrations, constraints, RDS configuration |
+| Databricks / Snowflake | [snowflake-databricks](https://github.com/aryafatthurahman4-collab/snowflake-databricks), [devhub-modernized](https://github.com/aryafatthurahman4-collab/devhub-modernized) | Integration notes and developer reference |
+| AWS | [aws-ec2-web-hosting-part-1](https://github.com/aryafatthurahman4-collab/aws-ec2-web-hosting-part-1), [aws-rds](https://github.com/aryafatthurahman4-collab/aws-rds), [pert-5-lambda](https://github.com/aryafatthurahman4-collab/pert-5-lambda) | EC2, RDS, Lambda, VPC/IAM, CI/CD |
 
 ## Selected Work
 
