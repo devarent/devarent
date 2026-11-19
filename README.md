@@ -2,10 +2,10 @@
 <!-- dbx-style-kit -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/devarent-1f6feb?style=for-the-badge" alt="devarent" />
-<img src="https://img.shields.io/badge/LANG%20Python-3178c6?style=for-the-badge" alt="LANG Python" />
-<img src="https://img.shields.io/badge/STARS%200-eab308?style=for-the-badge" alt="STARS 0" />
-<img src="https://img.shields.io/badge/LICENSE%20MIT-22c55e?style=for-the-badge" alt="LICENSE MIT" />
+<img src="https://img.shields.io/badge/REPOSITORIES-52?style=for-the-badge&logo=8b5cf6&logoColor=white" alt="REPOSITORIES" />
+<img src="https://img.shields.io/badge/TOTAL%20STARS-6?style=for-the-badge&logo=eab308&logoColor=white" alt="TOTAL STARS" />
+<img src="https://img.shields.io/badge/FOLLOWERS-0?style=for-the-badge&logo=22c55e&logoColor=white" alt="FOLLOWERS" />
+<img src="https://img.shields.io/badge/TOTAL%20FORKS-0?style=for-the-badge&logo=f97316&logoColor=white" alt="TOTAL FORKS" />
 
 <br>
 
@@ -16,26 +16,11 @@
 
 <br>
 
-<b>Profile and engineering portfolio - DevOps, Backend, QA, and AI projects built and documented in the open.</b>
+<b>52 hands-on engineering labs - DevOps, Backend, QA, and AI, built and documented in the open.</b>
 
 </div>
 
 ---
-<div align="center">
-  <img src="./assets/brand-banner.svg" alt="Arya Fatthurahman — DevOps, Backend, QA and AI Engineering" width="100%" />
-</div>
-
-<div align="center">
-
-[![Open to opportunities](https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-22c55e?style=for-the-badge)](https://github.com/devarent?tab=repositories)
-![Location](https://img.shields.io/badge/BASED-JAKARTA%2C%20INDONESIA-0f172a?style=for-the-badge)
-![Focus](https://img.shields.io/badge/FOCUS-DEVOPS%20%C2%B7%20BACKEND%20%C2%B7%20QA%20%C2%B7%20AI-6366f1?style=for-the-badge)
-![Repositories](https://img.shields.io/badge/REPOSITORIES-52-8b5cf6?style=for-the-badge)
-
-</div>
-
----
-
 ## Hi, I'm Arya
 
 I build and test software end to end: from a clean API and a tested data model, through a container image and a CI/CD pipeline, to a monitored deployment on Kubernetes. My repositories are hands-on engineering labs — each one has runnable code, automated tests, infrastructure as code, and documentation that explains the trade-offs.
