@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Open to opportunities](https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-22c55e?style=for-the-badge)](https://github.com/aryafatthurahman4-collab?tab=repositories)
+[![Open to opportunities](https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-22c55e?style=for-the-badge)](https://github.com/devarent?tab=repositories)
 ![Location](https://img.shields.io/badge/BASED-JAKARTA%2C%20INDONESIA-0f172a?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/FOCUS-DEVOPS%20%C2%B7%20BACKEND%20%C2%B7%20QA%20%C2%B7%20AI-6366f1?style=for-the-badge)
 ![Repositories](https://img.shields.io/badge/REPOSITORIES-52-8b5cf6?style=for-the-badge)
@@ -29,12 +29,12 @@ I build and test software end to end: from a clean API and a tested data model, 
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| **[devops-platform-2026](https://github.com/aryafatthurahman4-collab/devops-platform-2026)** | Production-style AWS platform: VPC/EKS/RDS via Terraform, Helm, Kustomize, GitHub Actions, Prometheus/Grafana, Trivy, SLOs, runbooks, incident response, cost notes. | Terraform · AWS · EKS · Helm · Docker · Prometheus |
-| **[backend-service-2026](https://github.com/aryafatthurahman4-collab/backend-service-2026)** | Java 21 + Quarkus order service with PostgreSQL, Flyway, Redis, OpenAPI, validation, problem-detail errors, integration tests, Docker and Kubernetes. | Java · Quarkus · PostgreSQL · Redis · Maven |
-| **[qa-automation-2026](https://github.com/aryafatthurahman4-collab/qa-automation-2026)** | Digital-banking QA lab: Playwright E2E + API tests, SQL/data-integrity checks, idempotency and ledger validation, k6 load tests, CI reporting. | Playwright · Node.js · SQL · k6 · GitHub Actions |
-| **[hris-itk-laravel](https://github.com/aryafatthurahman4-collab/hris-itk-laravel)** | Full HRIS web application: attendance, performance review, payroll, reporting, role-based access, and a hardened local installer. | Laravel · PHP · MySQL · Tailwind |
-| **[aws-ec2-web-hosting-part-1](https://github.com/aryafatthurahman4-collab/aws-ec2-web-hosting-part-1)** | Next.js production deployment lab with PostgreSQL, Docker, Terraform, Kubernetes/Helm, Nginx, and health checks. | Next.js · AWS · Terraform · Docker |
-| **[cnn](https://github.com/aryafatthurahman4-collab/cnn)** | CNN animal detection integrated with a camera sensor and a telemetry database. | Python · TensorFlow · PyTorch · OpenCV |
+| **[devops-platform-2026](https://github.com/devarent/devops-platform-2026)** | Production-style AWS platform: VPC/EKS/RDS via Terraform, Helm, Kustomize, GitHub Actions, Prometheus/Grafana, Trivy, SLOs, runbooks, incident response, cost notes. | Terraform · AWS · EKS · Helm · Docker · Prometheus |
+| **[backend-service-2026](https://github.com/devarent/backend-service-2026)** | Java 21 + Quarkus order service with PostgreSQL, Flyway, Redis, OpenAPI, validation, problem-detail errors, integration tests, Docker and Kubernetes. | Java · Quarkus · PostgreSQL · Redis · Maven |
+| **[qa-automation-2026](https://github.com/devarent/qa-automation-2026)** | Digital-banking QA lab: Playwright E2E + API tests, SQL/data-integrity checks, idempotency and ledger validation, k6 load tests, CI reporting. | Playwright · Node.js · SQL · k6 · GitHub Actions |
+| **[hris-itk-laravel](https://github.com/devarent/hris-itk-laravel)** | Full HRIS web application: attendance, performance review, payroll, reporting, role-based access, and a hardened local installer. | Laravel · PHP · MySQL · Tailwind |
+| **[aws-ec2-web-hosting-part-1](https://github.com/devarent/aws-ec2-web-hosting-part-1)** | Next.js production deployment lab with PostgreSQL, Docker, Terraform, Kubernetes/Helm, Nginx, and health checks. | Next.js · AWS · Terraform · Docker |
+| **[cnn](https://github.com/devarent/cnn)** | CNN animal detection integrated with a camera sensor and a telemetry database. | Python · TensorFlow · PyTorch · OpenCV |
 
 ## Skill Matrix
 
@@ -56,18 +56,18 @@ Every technology below has a hands-on repository. This is a map of where to find
 
 | Stack | Repository | What it shows |
 | --- | --- | --- |
-| Terraform | [devops-platform-2026](https://github.com/aryafatthurahman4-collab/devops-platform-2026), [terraform-databricks-sra-modernized](https://github.com/aryafatthurahman4-collab/terraform-databricks-sra-modernized) | VPC/EKS/RDS modules, remote state, validation; Databricks SRA reference |
-| Kubernetes | [k8s](https://github.com/aryafatthurahman4-collab/k8s), [devops-platform-2026](https://github.com/aryafatthurahman4-collab/devops-platform-2026) | Deployments, Services, Ingress, HPA, PDB, NetworkPolicy, Helm chart |
-| Docker | [nextjs-aws-production](https://github.com/aryafatthurahman4-collab/nextjs-aws-production), [backend-service-2026](https://github.com/aryafatthurahman4-collab/backend-service-2026) | Multi-stage builds, non-root images, Compose for local stacks |
-| HTML / CSS | [arya123](https://github.com/aryafatthurahman4-collab/arya123) | Responsive portfolio and web pages |
-| JavaScript / TypeScript | [arya123](https://github.com/aryafatthurahman4-collab/arya123), [pengujian-unit-latihan-soal](https://github.com/aryafatthurahman4-collab/pengujian-unit-latihan-soal), [qa-automation-2026](https://github.com/aryafatthurahman4-collab/qa-automation-2026) | Web UI, Node unit testing, Playwright automation |
-| Laravel / PHP | [hris-itk-laravel](https://github.com/aryafatthurahman4-collab/hris-itk-laravel), [laravel-modernized](https://github.com/aryafatthurahman4-collab/laravel-modernized) | Full HRIS application; framework reference mirror |
-| MySQL | [hris-itk-laravel](https://github.com/aryafatthurahman4-collab/hris-itk-laravel), [mariadb-practicum](https://github.com/aryafatthurahman4-collab/mariadb-practicum) | Schema, migrations, queries, indexes, transactions |
-| MongoDB | [mongodb-practicum](https://github.com/aryafatthurahman4-collab/mongodb-practicum) | Document modeling, aggregation pipeline, indexes, CRUD |
-| MariaDB | [mariadb-practicum](https://github.com/aryafatthurahman4-collab/mariadb-practicum) | SQL design, procedures, triggers, backup and replication notes |
-| PostgreSQL | [backend-service-2026](https://github.com/aryafatthurahman4-collab/backend-service-2026), [aws-rds](https://github.com/aryafatthurahman4-collab/aws-rds) | Flyway migrations, constraints, RDS configuration |
-| Databricks / Snowflake | [snowflake-databricks](https://github.com/aryafatthurahman4-collab/snowflake-databricks), [devhub-modernized](https://github.com/aryafatthurahman4-collab/devhub-modernized) | Integration notes and developer reference |
-| AWS | [aws-ec2-web-hosting-part-1](https://github.com/aryafatthurahman4-collab/aws-ec2-web-hosting-part-1), [aws-rds](https://github.com/aryafatthurahman4-collab/aws-rds), [pert-5-lambda](https://github.com/aryafatthurahman4-collab/pert-5-lambda) | EC2, RDS, Lambda, VPC/IAM, CI/CD |
+| Terraform | [devops-platform-2026](https://github.com/devarent/devops-platform-2026), [terraform-databricks-sra-modernized](https://github.com/devarent/terraform-databricks-sra-modernized) | VPC/EKS/RDS modules, remote state, validation; Databricks SRA reference |
+| Kubernetes | [k8s](https://github.com/devarent/k8s), [devops-platform-2026](https://github.com/devarent/devops-platform-2026) | Deployments, Services, Ingress, HPA, PDB, NetworkPolicy, Helm chart |
+| Docker | [nextjs-aws-production](https://github.com/devarent/nextjs-aws-production), [backend-service-2026](https://github.com/devarent/backend-service-2026) | Multi-stage builds, non-root images, Compose for local stacks |
+| HTML / CSS | [arya123](https://github.com/devarent/arya123) | Responsive portfolio and web pages |
+| JavaScript / TypeScript | [arya123](https://github.com/devarent/arya123), [pengujian-unit-latihan-soal](https://github.com/devarent/pengujian-unit-latihan-soal), [qa-automation-2026](https://github.com/devarent/qa-automation-2026) | Web UI, Node unit testing, Playwright automation |
+| Laravel / PHP | [hris-itk-laravel](https://github.com/devarent/hris-itk-laravel), [laravel-modernized](https://github.com/devarent/laravel-modernized) | Full HRIS application; framework reference mirror |
+| MySQL | [hris-itk-laravel](https://github.com/devarent/hris-itk-laravel), [mariadb-practicum](https://github.com/devarent/mariadb-practicum) | Schema, migrations, queries, indexes, transactions |
+| MongoDB | [mongodb-practicum](https://github.com/devarent/mongodb-practicum) | Document modeling, aggregation pipeline, indexes, CRUD |
+| MariaDB | [mariadb-practicum](https://github.com/devarent/mariadb-practicum) | SQL design, procedures, triggers, backup and replication notes |
+| PostgreSQL | [backend-service-2026](https://github.com/devarent/backend-service-2026), [aws-rds](https://github.com/devarent/aws-rds) | Flyway migrations, constraints, RDS configuration |
+| Databricks / Snowflake | [snowflake-databricks](https://github.com/devarent/snowflake-databricks), [devhub-modernized](https://github.com/devarent/devhub-modernized) | Integration notes and developer reference |
+| AWS | [aws-ec2-web-hosting-part-1](https://github.com/devarent/aws-ec2-web-hosting-part-1), [aws-rds](https://github.com/devarent/aws-rds), [pert-5-lambda](https://github.com/devarent/pert-5-lambda) | EC2, RDS, Lambda, VPC/IAM, CI/CD |
 
 ## Tech Stack
 
@@ -188,12 +188,12 @@ Technologies I work with, learn, and explore — grouped by layer. Every hands-o
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Quantum Hybrid Resornizations](https://github.com/aryafatthurahman4-collab/quantum-hybrid-resornizations-databricks-snowflake) | Hybrid quantum/classical machine learning with Databricks and Snowflake integration. | Python · PyTorch · Quantum ML |
-| [Quantum Hybrid Diffusion Models](https://github.com/aryafatthurahman4-collab/quantum-hybrid-diffusion-models) | Quantum-enhanced generative diffusion experiments. | Python · Jupyter · Quantum ML |
-| [UTS EC2 Amazon Linux](https://github.com/aryafatthurahman4-collab/uts-ujian-tengah-semester-ec2-amazon-linux) | Full cloud deployment lab: EC2, Docker, Terraform, Helm, and CI/CD. | AWS · Docker · Helm · Actions |
-| [Credit Card Fraud Detection](https://github.com/aryafatthurahman4-collab/credit-card-fraud) | Fraud classification with imbalanced-dataset handling. | Python · scikit-learn · Jupyter |
-| [Email Spam Detector](https://github.com/aryafatthurahman4-collab/email-spam-detector) | NLP pipeline for spam classification. | Python · NLP · scikit-learn |
-| [Kubernetes Manifests](https://github.com/aryafatthurahman4-collab/k8s) | Deployment manifests for HRIS, Laravel, and workspace services. | Kubernetes · YAML · DevOps |
+| [Quantum Hybrid Resornizations](https://github.com/devarent/quantum-hybrid-resornizations-databricks-snowflake) | Hybrid quantum/classical machine learning with Databricks and Snowflake integration. | Python · PyTorch · Quantum ML |
+| [Quantum Hybrid Diffusion Models](https://github.com/devarent/quantum-hybrid-diffusion-models) | Quantum-enhanced generative diffusion experiments. | Python · Jupyter · Quantum ML |
+| [UTS EC2 Amazon Linux](https://github.com/devarent/uts-ujian-tengah-semester-ec2-amazon-linux) | Full cloud deployment lab: EC2, Docker, Terraform, Helm, and CI/CD. | AWS · Docker · Helm · Actions |
+| [Credit Card Fraud Detection](https://github.com/devarent/credit-card-fraud) | Fraud classification with imbalanced-dataset handling. | Python · scikit-learn · Jupyter |
+| [Email Spam Detector](https://github.com/devarent/email-spam-detector) | NLP pipeline for spam classification. | Python · NLP · scikit-learn |
+| [Kubernetes Manifests](https://github.com/devarent/k8s) | Deployment manifests for HRIS, Laravel, and workspace services. | Kubernetes · YAML · DevOps |
 
 ## Engineering References
 
@@ -201,12 +201,12 @@ Carefully credited mirrors used to study established open-source systems. Upstre
 
 | Area | Repository |
 | --- | --- |
-| UI components | [shadcn/ui reference](https://github.com/aryafatthurahman4-collab/ui-modernized) |
-| Frontend library | [React reference](https://github.com/aryafatthurahman4-collab/react-modernized) |
-| Developer documentation | [Databricks DevHub reference](https://github.com/aryafatthurahman4-collab/devhub-modernized) |
-| Cloud security | [Databricks Terraform SRA reference](https://github.com/aryafatthurahman4-collab/terraform-databricks-sra-modernized) |
-| PHP framework | [Laravel reference](https://github.com/aryafatthurahman4-collab/laravel-modernized) |
-| Streaming ingestion | [Zerobus SDK reference](https://github.com/aryafatthurahman4-collab/zerobus-sdk-modernized) |
+| UI components | [shadcn/ui reference](https://github.com/devarent/ui-modernized) |
+| Frontend library | [React reference](https://github.com/devarent/react-modernized) |
+| Developer documentation | [Databricks DevHub reference](https://github.com/devarent/devhub-modernized) |
+| Cloud security | [Databricks Terraform SRA reference](https://github.com/devarent/terraform-databricks-sra-modernized) |
+| PHP framework | [Laravel reference](https://github.com/devarent/laravel-modernized) |
+| Streaming ingestion | [Zerobus SDK reference](https://github.com/devarent/zerobus-sdk-modernized) |
 
 ### Databricks ecosystem (upstream links)
 
@@ -233,20 +233,20 @@ These are the upstream projects I study and use as references; they are linked, 
 
 </div>
 
-> What I'm focused on right now: keeping the 2026 labs runnable and tested, studying how [DBX](https://github.com/t8y2/dbx) ships a 25 MB Rust + Tauri desktop app (my fork lives at [aryafatthurahman4-collab/dbx](https://github.com/aryafatthurahman4-collab/dbx)), and tightening Kubernetes, Terraform, SQL, and Playwright fundamentals — in the open, one repo at a time.
+> What I'm focused on right now: keeping the 2026 labs runnable and tested, studying how [DBX](https://github.com/t8y2/dbx) ships a 25 MB Rust + Tauri desktop app (my fork lives at [devarent/dbx](https://github.com/devarent/dbx)), and tightening Kubernetes, Terraform, SQL, and Playwright fundamentals — in the open, one repo at a time.
 
 ## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aryafatthurahman4-collab&show_icons=true&hide_border=true&bg_color=0b0f17&title_color=22d3ee&icon_color=8b5cf6&text_color=94a3b8&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryafatthurahman4-collab&layout=compact&hide_border=true&bg_color=0b0f17&title_color=22d3ee&text_color=94a3b8&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devarent&show_icons=true&hide_border=true&bg_color=0b0f17&title_color=22d3ee&icon_color=8b5cf6&text_color=94a3b8&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarent&layout=compact&hide_border=true&bg_color=0b0f17&title_color=22d3ee&text_color=94a3b8&langs_count=8" alt="Top languages" />
 
 </div>
 
 ## Explore
 
-[Browse all repositories](https://github.com/aryafatthurahman4-collab?tab=repositories) · [Role fit](ROLE-FIT.md) · [Profile](https://github.com/aryafatthurahman4-collab) · [Issues and requests](https://github.com/aryafatthurahman4-collab/aryafatthurahman4-collab/issues)
+[Browse all repositories](https://github.com/devarent?tab=repositories) · [Role fit](ROLE-FIT.md) · [Profile](https://github.com/devarent) · [Issues and requests](https://github.com/devarent/devarent/issues)
 
 <div align="center">
 
@@ -258,6 +258,6 @@ These are the upstream projects I study and use as references; they are linked, 
 
 ## Project Governance
 
-[![CI](https://github.com/aryafatthurahman4-collab/aryafatthurahman4-collab/actions/workflows/ci.yml/badge.svg)](https://github.com/aryafatthurahman4-collab/aryafatthurahman4-collab/actions/workflows/ci.yml)
+[![CI](https://github.com/devarent/devarent/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/devarent/actions/workflows/ci.yml)
 
 [Contributing](CONTRIBUTING.md) · [Security Policy](SECURITY.md) · [Code of Conduct](CODE_OF_CONDUCT.md)
