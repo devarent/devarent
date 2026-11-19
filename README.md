@@ -74,6 +74,21 @@ Carefully credited mirrors used to study established open-source systems. Upstre
 | PHP framework | [Laravel reference](https://github.com/aryafatthurahman4-collab/laravel-modernized) |
 | Streaming ingestion | [Zerobus SDK reference](https://github.com/aryafatthurahman4-collab/zerobus-sdk-modernized) |
 
+### Databricks ecosystem (upstream links)
+
+These are the upstream projects I study and use as references; they are linked, not forked, so credit and release history stay with the authors.
+
+| Project | Why it matters |
+| --- | --- |
+| [databricks-sdk-py](https://github.com/databricks/databricks-sdk-py) | Python SDK for workspace, jobs, clusters, and Unity Catalog automation |
+| [databricks-cli](https://github.com/databricks/cli) | CI/CD-friendly command line for bundles and workspace operations |
+| [terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) | Infrastructure as code for Databricks resources |
+| [mlops-stacks](https://github.com/databricks/mlops-stacks) | Production ML project template with CI/CD and testing |
+| [dbt-databricks](https://github.com/databricks/dbt-databricks) | Analytics engineering on the lakehouse |
+| [databricks-sql-python](https://github.com/databricks/databricks-sql-python) | SQL connector patterns for Python services |
+| [bundle-examples](https://github.com/databricks/bundle-examples) | Databricks Asset Bundle patterns for deployment |
+| [terraform-databricks-sra](https://github.com/databricks/terraform-databricks-sra) | Security reference architecture for regulated environments |
+
 ## GitHub Activity
 
 <div align="center">
