@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# devarent
+
+<sub>Engineering portfolio - hands-on labs in DevOps, Backend, QA, and AI, built and documented in the open.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | devarent |
+| Primary language | Python, TypeScript, Java, JavaScript, HCL, Shell |
+| Topics | profile, portfolio, devops, backend, qa, ai |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+This is the profile repository for @devarent. It collects the engineering labs, skill matrix, and stack coverage map for 52 public repositories, with a full technology badge wall and a short "Now" section describing current focus.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
