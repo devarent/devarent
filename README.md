@@ -102,14 +102,14 @@ Every technology below has a hands-on repository. This is a map of where to find
 | Kubernetes | [k8s](https://github.com/devarent/k8s), [devops-platform-2026](https://github.com/devarent/devops-platform-2026) | Deployments, Services, Ingress, HPA, PDB, NetworkPolicy, Helm chart |
 | Docker | [nextjs-aws-production](https://github.com/devarent/nextjs-aws-production), [backend-service-2026](https://github.com/devarent/backend-service-2026) | Multi-stage builds, non-root images, Compose for local stacks |
 | HTML / CSS | [arya123](https://github.com/devarent/arya123) | Responsive portfolio and web pages |
-| JavaScript / TypeScript | [arya123](https://github.com/devarent/arya123), [pengujian-unit-latihan-soal](https://github.com/devarent/pengujian-unit-latihan-soal), [qa-automation-2026](https://github.com/devarent/qa-automation-2026) | Web UI, Node unit testing, Playwright automation |
+| JavaScript / TypeScript | [arya123](https://github.com/devarent/arya123), [unit-testing-practice](https://github.com/devarent/unit-testing-practice), [qa-automation-2026](https://github.com/devarent/qa-automation-2026) | Web UI, Node unit testing, Playwright automation |
 | Laravel / PHP | [hris-itk-laravel](https://github.com/devarent/hris-itk-laravel), [laravel-modernized](https://github.com/devarent/laravel-modernized) | Full HRIS application; framework reference mirror |
 | MySQL | [hris-itk-laravel](https://github.com/devarent/hris-itk-laravel), [mariadb-practicum](https://github.com/devarent/mariadb-practicum) | Schema, migrations, queries, indexes, transactions |
 | MongoDB | [mongodb-practicum](https://github.com/devarent/mongodb-practicum) | Document modeling, aggregation pipeline, indexes, CRUD |
 | MariaDB | [mariadb-practicum](https://github.com/devarent/mariadb-practicum) | SQL design, procedures, triggers, backup and replication notes |
 | PostgreSQL | [backend-service-2026](https://github.com/devarent/backend-service-2026), [aws-rds](https://github.com/devarent/aws-rds) | Flyway migrations, constraints, RDS configuration |
 | Databricks / Snowflake | [snowflake-databricks](https://github.com/devarent/snowflake-databricks), [devhub-modernized](https://github.com/devarent/devhub-modernized) | Integration notes and developer reference |
-| AWS | [aws-ec2-web-hosting-part-1](https://github.com/devarent/aws-ec2-web-hosting-part-1), [aws-rds](https://github.com/devarent/aws-rds), [pert-5-lambda](https://github.com/devarent/pert-5-lambda) | EC2, RDS, Lambda, VPC/IAM, CI/CD |
+| AWS | [aws-ec2-web-hosting-part-1](https://github.com/devarent/aws-ec2-web-hosting-part-1), [aws-rds](https://github.com/devarent/aws-rds), [lambda-localstack-lab](https://github.com/devarent/lambda-localstack-lab) | EC2, RDS, Lambda, VPC/IAM, CI/CD |
 
 ## Tech Stack
 
@@ -230,9 +230,9 @@ Technologies I work with, learn, and explore ΓÇö grouped by layer. Every hand
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Quantum Hybrid Resornizations](https://github.com/devarent/quantum-hybrid-resornizations-databricks-snowflake) | Hybrid quantum/classical machine learning with Databricks and Snowflake integration. | Python ┬╖ PyTorch ┬╖ Quantum ML |
+| [Quantum Hybrid Resornizations](https://github.com/devarent/quantum-hybrid-ml-databricks-snowflake) | Hybrid quantum/classical machine learning with Databricks and Snowflake integration. | Python ┬╖ PyTorch ┬╖ Quantum ML |
 | [Quantum Hybrid Diffusion Models](https://github.com/devarent/quantum-hybrid-diffusion-models) | Quantum-enhanced generative diffusion experiments. | Python ┬╖ Jupyter ┬╖ Quantum ML |
-| [UTS EC2 Amazon Linux](https://github.com/devarent/uts-ujian-tengah-semester-ec2-amazon-linux) | Full cloud deployment lab: EC2, Docker, Terraform, Helm, and CI/CD. | AWS ┬╖ Docker ┬╖ Helm ┬╖ Actions |
+| [UTS EC2 Amazon Linux](https://github.com/devarent/uts-ec2-amazon-linux) | Full cloud deployment lab: EC2, Docker, Terraform, Helm, and CI/CD. | AWS ┬╖ Docker ┬╖ Helm ┬╖ Actions |
 | [Credit Card Fraud Detection](https://github.com/devarent/credit-card-fraud) | Fraud classification with imbalanced-dataset handling. | Python ┬╖ scikit-learn ┬╖ Jupyter |
 | [Email Spam Detector](https://github.com/devarent/email-spam-detector) | NLP pipeline for spam classification. | Python ┬╖ NLP ┬╖ scikit-learn |
 | [Kubernetes Manifests](https://github.com/devarent/k8s) | Deployment manifests for HRIS, Laravel, and workspace services. | Kubernetes ┬╖ YAML ┬╖ DevOps |
