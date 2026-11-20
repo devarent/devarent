@@ -21,7 +21,7 @@
 
 ## Overview
 
-This is the profile repository for @devarent. It collects the engineering labs, skill matrix, and stack coverage map for 52 public repositories, with a full technology badge wall and a short "Now" section describing current focus.
+This is the profile repository for @devarent. It collects the engineering labs, skill matrix, and stack coverage map for 78 public repositories, with a full technology badge wall and a short "Now" section describing current focus.
 
 ### Global references
 
@@ -36,7 +36,7 @@ This is the profile repository for @devarent. It collects the engineering labs, 
 <!-- dbx-style-kit -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/REPOSITORIES-52-8b5cf6?style=for-the-badge" alt="REPOSITORIES" />
+<img src="https://img.shields.io/badge/REPOSITORIES-78-8b5cf6?style=for-the-badge" alt="REPOSITORIES" />
 <img src="https://img.shields.io/badge/TOTAL%20STARS-6-eab308?style=for-the-badge" alt="TOTAL STARS" />
 <img src="https://img.shields.io/badge/FOLLOWERS-0-22c55e?style=for-the-badge" alt="FOLLOWERS" />
 <img src="https://img.shields.io/badge/TOTAL%20FORKS-0-f97316?style=for-the-badge" alt="TOTAL FORKS" />
@@ -45,12 +45,12 @@ This is the profile repository for @devarent. It collects the engineering labs, 
 
 <img src="https://img.shields.io/badge/OPEN%20SOURCE-yes-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="OPEN SOURCE" />
 <img src="https://img.shields.io/badge/BUILT%20IN%20PUBLIC-true-6366f1?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="BUILT IN PUBLIC" />
-<img src="https://img.shields.io/badge/HANDS%20ON%20LABS-52-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" alt="HANDS ON LABS" />
+<img src="https://img.shields.io/badge/HANDS%20ON%20LABS-78-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" alt="HANDS ON LABS" />
 <img src="https://img.shields.io/badge/DOCUMENTED-yes-14b8a6?style=for-the-badge&logo=markdown&logoColor=white" alt="DOCUMENTED" />
 
 <br>
 
-<b>52 hands-on engineering labs - DevOps, Backend, QA, and AI, built and documented in the open.</b>
+<b>78 hands-on engineering labs - DevOps, Backend, QA, and AI, built and documented in the open.</b>
 
 </div>
 
@@ -77,6 +77,20 @@ I build and test software end to end: from a clean API and a tested data model, 
 | **[hris-itk-laravel](https://github.com/devarent/hris-itk-laravel)** | Full HRIS web application: attendance, performance review, payroll, reporting, role-based access, and a hardened local installer. | Laravel ┬╖ PHP ┬╖ MySQL ┬╖ Tailwind |
 | **[aws-ec2-web-hosting-part-1](https://github.com/devarent/aws-ec2-web-hosting-part-1)** | Next.js production deployment lab with PostgreSQL, Docker, Terraform, Kubernetes/Helm, Nginx, and health checks. | Next.js ┬╖ AWS ┬╖ Terraform ┬╖ Docker |
 | **[cnn](https://github.com/devarent/cnn)** | CNN animal detection integrated with a camera sensor and a telemetry database. | Python ┬╖ TensorFlow ┬╖ PyTorch ┬╖ OpenCV |
+
+## Database Labs (2026)
+
+**26 database engines, one index.** [database-labs](https://github.com/devarent/database-labs) maps every lab; [database-labs-demo](https://github.com/devarent/database-labs-demo) is a runnable FastAPI + PostgreSQL 17 app with real writes, seven tests against PostgreSQL, and Render/Fly/VPS deploy configs.
+
+| Family | Labs |
+| --- | --- |
+| **Relational &amp; distributed SQL** | [Firebird](https://github.com/devarent/firebird-lab), [IBM Db2](https://github.com/devarent/ibm-db2-lab), [MariaDB](https://github.com/devarent/mariadb-practicum), [SQL Server](https://github.com/devarent/sql-server-lab), [CockroachDB](https://github.com/devarent/cockroachdb-lab), [InterSystems IRIS](https://github.com/devarent/intersystems-iris-lab), [JDBC](https://github.com/devarent/jdbc-lab) |
+| **Cloud &amp; analytics** | [Databricks SQL](https://github.com/devarent/databricks-sql-lab), [Snowflake](https://github.com/devarent/snowflake-lab), [Amazon Redshift](https://github.com/devarent/redshift-lab), [Google BigQuery](https://github.com/devarent/bigquery-lab), [Teradata](https://github.com/devarent/teradata-lab), [Vertica](https://github.com/devarent/vertica-lab), [Databend](https://github.com/devarent/databend-lab), [Apache Kylin](https://github.com/devarent/apache-kylin-lab) |
+| **NoSQL &amp; search** | [Redis](https://github.com/devarent/redis-lab), [MongoDB](https://github.com/devarent/mongodb-practicum), [Apache Cassandra](https://github.com/devarent/cassandra-lab), [Elasticsearch](https://github.com/devarent/elasticsearch-lab) |
+| **Vector &amp; graph** | [Qdrant](https://github.com/devarent/qdrant-lab), [ChromaDB](https://github.com/devarent/chromadb-lab), [Neo4j](https://github.com/devarent/neo4j-lab) |
+| **Streaming &amp; time-series** | [Apache Kafka](https://github.com/devarent/apache-kafka-lab), [VictoriaMetrics](https://github.com/devarent/victoriametrics-lab), [InfluxDB](https://github.com/devarent/influxdb-lab), [TDengine](https://github.com/devarent/tdengine-lab) |
+
+Every Docker lab binds its ports to `127.0.0.1` and ships with the shared [remote-access guide](https://github.com/devarent/database-labs/blob/main/REMOTE-ACCESS.md): WireGuard/SSH tunnels, managed free tiers, and a hardened public HTTP demo pattern.
 
 ## Skill Matrix
 
