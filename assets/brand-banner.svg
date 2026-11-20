@@ -1,92 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-  <title id="title">Arya Fatthurahman — DevOps, Backend, QA, AI Engineering</title>
-  <desc id="desc">Dark technical banner with an AF monogram, circuit traces, cloud and container motifs.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="t d">
+  <title id="t">Devarent — Cloud, Data &amp; AI Engineering</title>
+  <desc id="d">Banner with AF monogram, DEVARENT wordmark, and tagline on a dark technical grid.</desc>
   <defs>
-    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#22D3EE"/>
       <stop offset="0.5" stop-color="#6366F1"/>
       <stop offset="1" stop-color="#A855F7"/>
     </linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#A855F7" stop-opacity="0.1"/>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
     </linearGradient>
-    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#6366F1" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#4F46E5" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#4F46E5" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#1E293B" stroke-width="1"/>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#93A4C8" stroke-opacity="0.09" stroke-width="1"/>
     </pattern>
-    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="28"/>
-    </filter>
-    <clipPath id="frame">
-      <rect width="1280" height="360" rx="28"/>
-    </clipPath>
   </defs>
 
-  <g clip-path="url(#frame)">
-    <rect width="1280" height="360" fill="#0B0F17"/>
-    <rect width="1280" height="360" fill="url(#grid)" opacity="0.55"/>
-    <circle cx="1080" cy="40" r="220" fill="url(#halo)"/>
-    <circle cx="1180" cy="330" r="180" fill="#22D3EE" opacity="0.10" filter="url(#soft)"/>
-    <circle cx="700" cy="180" r="160" fill="#A855F7" opacity="0.08" filter="url(#soft)"/>
+  <rect width="1280" height="640" fill="#080C18"/>
+  <rect width="1280" height="640" fill="url(#grid)"/>
+  <ellipse cx="880" cy="300" rx="520" ry="360" fill="url(#glow)"/>
 
-    <!-- circuit traces -->
-    <g fill="none" stroke="#334155" stroke-width="1.5" opacity="0.65">
-      <path d="M760 70h90l24 24h120"/>
-      <path d="M820 120h70l20 20h150"/>
-      <path d="M780 250h110l26-26h130"/>
-      <path d="M860 300h90l24-24h120"/>
-      <path d="M980 70v50l-24 24v40"/>
-      <path d="M1120 140v60l-26 26v46"/>
+  <!-- monogram -->
+  <g transform="translate(120 176)">
+    <rect width="288" height="288" rx="64" fill="#0D1426" stroke="#22304D"/>
+    <g transform="translate(24 24) scale(0.46875)" fill="url(#mark)">
+      <path d="M112 398 L176 398 L252 146 L212 134 Z"/>
+      <path d="M212 134 L252 146 L328 398 L264 398 Z"/>
+      <rect x="168" y="302" width="112" height="27" rx="4"/>
+      <rect x="352" y="146" width="31" height="252" rx="5"/>
+      <rect x="352" y="146" width="94" height="31" rx="5"/>
+      <rect x="352" y="250" width="74" height="27" rx="5"/>
     </g>
-    <g fill="#22D3EE">
-      <circle cx="760" cy="70" r="4"/>
-      <circle cx="994" cy="94" r="4"/>
-      <circle cx="1060" cy="140" r="4"/>
-      <circle cx="1046" cy="224" r="4"/>
-      <circle cx="980" cy="70" r="3"/>
-      <circle cx="1120" cy="140" r="3"/>
-    </g>
-    <g fill="#A855F7">
-      <circle cx="820" cy="120" r="3.5"/>
-      <circle cx="780" cy="250" r="3.5"/>
-      <circle cx="860" cy="300" r="3.5"/>
-      <circle cx="1074" cy="300" r="3"/>
-    </g>
+  </g>
 
-    <!-- mark -->
-    <g transform="translate(64 80)">
-      <rect x="0" y="0" width="200" height="200" rx="46" fill="#0F172A" stroke="url(#brand)" stroke-width="2"/>
-      <path d="M22 54V30a8 8 0 0 1 8-8h24" fill="none" stroke="#22D3EE" stroke-width="3" stroke-linecap="round"/>
-      <path d="M178 146v24a8 8 0 0 1-8 8h-24" fill="none" stroke="#A855F7" stroke-width="3" stroke-linecap="round"/>
-      <text x="100" y="133" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="-6" fill="url(#brand)">AF</text>
-      <circle cx="100" cy="164" r="4" fill="#22D3EE"/>
-      <circle cx="116" cy="164" r="3" fill="#6366F1"/>
-      <circle cx="132" cy="164" r="2.5" fill="#A855F7"/>
-    </g>
+  <!-- wordmark -->
+  <text x="468" y="292" fill="#F2F6FF" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="6">DEVARENT</text>
+  <text x="472" y="348" fill="url(#mark)" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="7">CLOUD · DATA · AI ENGINEERING</text>
+  <rect x="470" y="382" width="480" height="3" rx="2" fill="url(#rule)"/>
 
-    <!-- wordmark -->
-    <text x="312" y="152" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5" fill="#F8FAFC">Arya Fatthurahman</text>
-    <text x="314" y="198" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="4.5" fill="#94A3B8">DEVOPS · BACKEND · QA · AI ENGINEERING</text>
-    <text x="314" y="240" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="400" fill="#64748B">Designing reliable systems from source code to production cloud.</text>
+  <text x="470" y="440" fill="#94A3C4" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21">Terraform · AWS · Kubernetes · Databricks · 26 databases · 52 open labs</text>
 
-    <!-- capability chips -->
-    <g font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600">
-      <rect x="314" y="266" width="104" height="30" rx="15" fill="#0F172A" stroke="#1E293B"/>
-      <text x="366" y="286" text-anchor="middle" fill="#67E8F9">CI / CD</text>
-      <rect x="428" y="266" width="122" height="30" rx="15" fill="#0F172A" stroke="#1E293B"/>
-      <text x="489" y="286" text-anchor="middle" fill="#A5B4FC">Kubernetes</text>
-      <rect x="560" y="266" width="104" height="30" rx="15" fill="#0F172A" stroke="#1E293B"/>
-      <text x="612" y="286" text-anchor="middle" fill="#C4B5FD">Terraform</text>
-      <rect x="674" y="266" width="96" height="30" rx="15" fill="#0F172A" stroke="#1E293B"/>
-      <text x="722" y="286" text-anchor="middle" fill="#67E8F9">Quarkus</text>
-      <rect x="780" y="266" width="128" height="30" rx="15" fill="#0F172A" stroke="#1E293B"/>
-      <text x="844" y="286" text-anchor="middle" fill="#A5B4FC">Playwright</text>
-    </g>
-
-    <rect x="0" y="357" width="1280" height="3" fill="url(#edge)"/>
+  <g fill="#22D3EE">
+    <circle cx="1140" cy="120" r="5"/><circle cx="1180" cy="120" r="5"/><circle cx="1220" cy="120" r="5"/>
+  </g>
+  <g fill="#A855F7">
+    <circle cx="1140" cy="520" r="5"/><circle cx="1180" cy="520" r="5"/><circle cx="1220" cy="520" r="5"/>
   </g>
 </svg>

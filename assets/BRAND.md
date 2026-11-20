@@ -6,10 +6,12 @@ A small, reusable identity for the profile and project READMEs.
 
 | File | Use |
 | --- | --- |
-| `brand-banner.svg` | Wide profile banner (1280×360). Preferred for README headers. |
-| `brand-banner.png` | Raster fallback / social preview (2560×720). |
-| `brand-logo.svg` | Square monogram (512×512). Use for avatars, repo headers, and favicons. |
-| `brand-logo.png` | Raster avatar (1024×1024). |
+| `brand-banner.svg` | Wide profile banner (1280×640). Preferred for README headers. |
+| `brand-banner.png` | Raster banner (1280×640). |
+| `social-preview.png` | Repository social preview (1280×640). Unggah lewat Settings → Social preview. |
+| `brand-logo.svg` | Square AF monogram (512×512). Use for avatars, repo headers, and favicons. |
+| `brand-logo.png` | Raster monogram (512×512). |
+| `avatar.png` | GitHub profile avatar (512×512). Unggah lewat Settings → Profile → Avatar. |
 
 ## Palette
 

@@ -1,6 +1,14 @@
 
+<div align="center">
+
+<img src="assets/brand-banner.svg" alt="Devarent — Cloud, Data & AI Engineering" width="100%" />
+
+</div>
+
 <!-- identity-block -->
 <div align="center">
+
+<img src="assets/brand-logo.svg" alt="AF monogram" width="72" />
 
 # devarent
 
