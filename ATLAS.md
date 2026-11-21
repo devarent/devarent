@@ -28,4 +28,4 @@ Ini repo profil GitHub; konten utamanya adalah README.
 - Katalog lengkap: `repo-atlas/index.html` di root workspace
 
 ---
-<small>Dibuat oleh Repo Atlas · dijalankan dengan `node repo-atlas/generate.js`</small>
+<small>Dibuat oleh Devarent · dijalankan dengan `node repo-atlas/generate.js`</small>

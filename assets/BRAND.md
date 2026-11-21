@@ -13,9 +13,9 @@ A small, reusable identity for the profile and project READMEs.
 | `brand-logo.png` | Raster monogram (1024×1024). |
 | `avatar.png` | GitHub profile avatar (1024×1024), v3 mark. Unggah lewat Settings → Profile → Avatar. |
 
-## Mark v3
+## Mark v4 — Next Gen Tech
 
-Logo saat ini (versi 3) memakai monogram **AF** dengan **gradient outline** (cyan → indigo → violet) dan **orbit rings** di sekitarnya, di atas latar navy dalam rounded square. Ini menggantikan versi 2 (solid fill + grid) yang kurang disukai.
+Logo saat ini memakai monogram **D** (Devarent) berbentuk geometris tebal dengan **gradient neon cyan → indigo → violet**, **orbit ring**, dan aksen sirkuit di atas latar navy. Ini menggantikan versi sebelumnya yang memakai monogram AF. Nama produk sekarang **Devarent** (menggantikan "Repo Atlas") — lihat juga `Devarent — Cloud & Data Control Center`.
 
 ## Palette
 

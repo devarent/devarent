@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Repo Atlas](https://img.shields.io/badge/Repo%20Atlas-52%20repos-8b5cf6?style=for-the-badge&logo=github)](https://github.com/devarent/repo-atlas-next)
+[![Devarent](https://img.shields.io/badge/Devarent-52%20repos-8b5cf6?style=for-the-badge&logo=github)](https://github.com/devarent/repo-atlas-next)
 [![Database Labs](https://img.shields.io/badge/Database%20Labs-26%20engines-22d3ee?style=for-the-badge&logo=postgresql)](https://github.com/devarent/database-labs)
 [![Role Fit](https://img.shields.io/badge/Role%20Fit-4%20roles-0ea5e9?style=for-the-badge)](ROLE-FIT.md)
 [![Email](https://img.shields.io/badge/Email-Contact-14b8a6?style=for-the-badge&logo=gmail)](mailto:aryafatthurahman4@gmail.com)
@@ -384,7 +384,7 @@ These are the upstream projects I study and use as references; they are linked, 
 <!-- Salin blok ini ke bagian atas/bawah README repo profil devarent/devarent. -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/REPO%20ATLAS-52-8b5cf6?style=for-the-badge" alt="52 repos" />
+<img src="https://img.shields.io/badge/DEVARENT-52-8b5cf6?style=for-the-badge" alt="52 repos" />
 <img src="https://img.shields.io/badge/DATA%20STACK-26-22d3ee?style=for-the-badge" alt="26 data technologies" />
 <img src="https://img.shields.io/badge/CLOUD-AWS%20%2B%20K8s-ff9900?style=for-the-badge" alt="AWS and Kubernetes" />
 <img src="https://img.shields.io/badge/IaC-Terraform-844fba?style=for-the-badge" alt="Terraform" />
@@ -396,7 +396,7 @@ These are the upstream projects I study and use as references; they are linked, 
 
 <br><br>
 
-## 🗺️ Repo Atlas — Cloud & Data Control Center
+## 🚀 Devarent — Cloud & Data Control Center
 
 Seluruh repository dipetakan ke **9 konstelasi bertema negara**, lalu disambungkan ke **26 teknologi data** dan toolchain cloud: Terraform, AWS EC2 + Elastic IP, Docker, Kubernetes/Helm, GitHub Actions, Databricks, dan Keras.
 
