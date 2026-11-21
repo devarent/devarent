@@ -211,8 +211,12 @@ These are the upstream projects I study and use as references; they are linked, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devarent&show_icons=true&hide_border=true&bg_color=0b0f17&title_color=22d3ee&icon_color=8b5cf6&text_color=94a3b8&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarent&layout=compact&hide_border=true&bg_color=0b0f17&title_color=22d3ee&text_color=94a3b8&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devarent&show_icons=true&hide_border=true&bg_color=06070e&title_color=ff9bd2&icon_color=8b5cf6&text_color=9aa3c4&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarent&layout=compact&hide_border=true&bg_color=06070e&title_color=4de1ff&text_color=9aa3c4&langs_count=8" alt="Top languages" />
+
+<br>
+
+<img height="165" src="https://streak-stats.demolab.com?user=devarent&hide_border=true&background=06070E&ring=8B5CF6&fire=FF9BD2&currStreakLabel=4DE1FF&sideLabels=9AA3C4&dates=9AA3C4&currStreakNum=F2F4FF&sideNums=F2F4FF" alt="GitHub streak" />
 
 </div>
 
