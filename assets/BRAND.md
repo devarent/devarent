@@ -9,29 +9,34 @@ A small, reusable identity for the profile and project READMEs.
 | `brand-banner.svg` | Wide profile banner (1280×640). Preferred for README headers. |
 | `brand-banner.png` | Raster banner (1280×640). |
 | `social-preview.png` | Repository social preview (1280×640). Unggah lewat Settings → Social preview. |
-| `brand-logo.svg` | Square AF monogram (512×512), outlined with gradient stroke + orbit rings. Use for avatars, repo headers, and favicons. |
-| `brand-logo.png` | Raster monogram (1024×1024). |
-| `avatar.png` | GitHub profile avatar (1024×1024), v3 mark. Unggah lewat Settings → Profile → Avatar. |
+| `brand-logo.svg` | Square **D** monogram (512×512), astral gradient + orbit + grain. Use for avatars, repo headers, and favicons. |
+| `brand-logo.png` | Raster monogram (512×512). |
+| `avatar.png` | GitHub profile avatar (1024×1024). Unggah lewat Settings → Profile → Avatar. |
+| `logo-pulse.gif` | Animated hero mark (360×360), orbit particles in cyan / pink / amber. |
 
-## Mark v4 — Next Gen Tech
+## Mark v5 — Astral Grain
 
-Logo saat ini memakai monogram **D** (Devarent) berbentuk geometris tebal dengan **gradient neon cyan → indigo → violet**, **orbit ring**, dan aksen sirkuit di atas latar navy. Ini menggantikan versi sebelumnya yang memakai monogram AF. Nama produk sekarang **Devarent** (menggantikan "Repo Atlas") — lihat juga `Devarent — Cloud & Data Control Center`.
+Logo saat ini memakai monogram **D** geometris dengan **astral gradient** (pink `#FF9BD2` → violet `#8B5CF6` → blue `#5B8CFF` → cyan `#4DE1FF`), orbit ring, aksen sirkuit, dan **film grain** di atas deep space `#06070E`. Ini menggantikan mark v4 yang memakai cyan → indigo → violet tanpa grain.
+
+Arah visual ini mengikuti koleksi **Grainient** (mesh gradient + grain halus) dan motion **Arc / uiarc** (press scale, label morph, loading state) yang dipakai di dashboard `repo-atlas-next`.
 
 ## Palette
 
 | Token | Hex | Use |
 | --- | --- | --- |
-| Ink | `#0B0F17` | Background |
-| Surface | `#0F172A` | Cards and frames |
-| Cyan | `#22D3EE` | Primary accent |
-| Indigo | `#6366F1` | Mid-gradient |
-| Violet | `#A855F7` | Secondary accent |
-| Text | `#F8FAFC` | Headings |
-| Muted | `#94A3B8` | Body and captions |
+| Void | `#06070E` | Background |
+| Surface | `#0A0C17` | Cards and frames |
+| Violet | `#8B5CF6` | Primary |
+| Blue | `#5B8CFF` | Mid-gradient |
+| Cyan | `#4DE1FF` | Accent |
+| Pink | `#FF9BD2` | Warm accent |
+| Amber | `#FFB86B` | Signal / highlight |
+| Text | `#F2F4FF` | Headings |
+| Muted | `#9AA3C4` | Body and captions |
 
 ## Type
 
-Inter (or Segoe UI / Arial as fallbacks), weights 400–800. The monogram uses tight tracking and a cyan-to-violet gradient.
+Inter (or Segoe UI / Arial as fallbacks), weights 400–800. The wordmark uses tight tracking; the monogram uses a 4-stop astral gradient.
 
 ## Usage
 
@@ -46,5 +51,6 @@ The PNGs were rendered from the SVGs with Sharp:
 
 ```bash
 npm install sharp
-node -e "const sharp=require('sharp'); sharp('brand-banner.svg',{density:192}).png().toFile('brand-banner.png')"
+node scripts/render-brand.mjs
+python scripts/make-animated-logo.py
 ```

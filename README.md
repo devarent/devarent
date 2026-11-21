@@ -8,7 +8,7 @@
 <!-- identity-block -->
 <div align="center">
 
-<img src="assets/logo-pulse.gif" alt="AF monogram" width="92" />
+<img src="assets/logo-pulse.gif" alt="Devarent astral mark" width="92" />
 
 <h1>devarent</h1>
 
@@ -22,14 +22,18 @@
 
 <sub>📍 Jakarta, Indonesia · they/them · [@devarent](https://github.com/devarent)</sub>
 
+<br>
+
+<sub>⚡ Astral Grain design system · Next.js 16 · Tailwind v4 · Radix</sub>
+
 </div>
 
 <div align="center">
 
-[![Devarent](https://img.shields.io/badge/Devarent-52%20repos-8b5cf6?style=for-the-badge&logo=github)](https://github.com/devarent/repo-atlas-next)
-[![Database Labs](https://img.shields.io/badge/Database%20Labs-26%20engines-22d3ee?style=for-the-badge&logo=postgresql)](https://github.com/devarent/database-labs)
-[![Role Fit](https://img.shields.io/badge/Role%20Fit-4%20roles-0ea5e9?style=for-the-badge)](ROLE-FIT.md)
-[![Email](https://img.shields.io/badge/Email-Contact-14b8a6?style=for-the-badge&logo=gmail)](mailto:aryafatthurahman4@gmail.com)
+[![Devarent](https://img.shields.io/badge/Devarent-52%20repos-7c5cff?style=for-the-badge&logo=github)](https://github.com/devarent/repo-atlas-next)
+[![Database Labs](https://img.shields.io/badge/Database%20Labs-26%20engines-0891b2?style=for-the-badge&logo=postgresql)](https://github.com/devarent/database-labs)
+[![Role Fit](https://img.shields.io/badge/Role%20Fit-4%20roles-5b8cff?style=for-the-badge)](ROLE-FIT.md)
+[![Email](https://img.shields.io/badge/Email-Contact-db2777?style=for-the-badge&logo=gmail)](mailto:aryafatthurahman4@gmail.com)
 
 <br><br>
 
