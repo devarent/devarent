@@ -8,15 +8,34 @@
 <!-- identity-block -->
 <div align="center">
 
-<img src="assets/brand-logo.svg" alt="AF monogram" width="72" />
+<img src="assets/logo-pulse.gif" alt="AF monogram" width="92" />
 
-# devarent
+<h1>devarent</h1>
 
-<sub>Engineering portfolio - hands-on labs in DevOps, Backend, QA, and AI, built and documented in the open.</sub>
+<b>AI Engineering · Software, Data &amp; Cloud</b>
+
+<br>
+
+<sub>Engineering portfolio — hands-on labs in DevOps, Backend, QA, and AI, built and documented in the open.</sub>
+
+<br>
+
+<sub>📍 Jakarta, Indonesia · they/them · [@devarent](https://github.com/devarent)</sub>
 
 </div>
 
-## At a glance
+<div align="center">
+
+[![Repo Atlas](https://img.shields.io/badge/Repo%20Atlas-52%20repos-8b5cf6?style=for-the-badge&logo=github)](https://github.com/devarent/repo-atlas-next)
+[![Database Labs](https://img.shields.io/badge/Database%20Labs-26%20engines-22d3ee?style=for-the-badge&logo=postgresql)](https://github.com/devarent/database-labs)
+[![Role Fit](https://img.shields.io/badge/Role%20Fit-4%20roles-0ea5e9?style=for-the-badge)](ROLE-FIT.md)
+[![Email](https://img.shields.io/badge/Email-Contact-14b8a6?style=for-the-badge&logo=gmail)](mailto:aryafatthurahman4@gmail.com)
+
+<br><br>
+
+</div>
+
+## 🧭 At a glance
 
 | Field | Detail |
 | --- | --- |
@@ -27,7 +46,7 @@
 | Branch | main |
 | Maintainer | [@devarent](https://github.com/devarent) |
 
-## Overview
+## 👋 Overview
 
 This is the profile repository for @devarent. It collects the engineering labs, skill matrix, and stack coverage map for 78 public repositories, with a full technology badge wall and a short "Now" section describing current focus.
 
@@ -63,9 +82,9 @@ This is the profile repository for @devarent. It collects the engineering labs, 
 </div>
 
 ---
-## Hi, I'm Arya
+## 👋 Hi, I'm Arya
 
-I build and test software end to end: from a clean API and a tested data model, through a container image and a CI/CD pipeline, to a monitored deployment on Kubernetes. My repositories are hands-on engineering labs ΓÇö each one has runnable code, automated tests, infrastructure as code, and documentation that explains the trade-offs.
+I build and test software end to end: from a clean API and a tested data model, through a container image and a CI/CD pipeline, to a monitored deployment on Kubernetes. My repositories are hands-on engineering labs — each one has runnable code, automated tests, infrastructure as code, and documentation that explains the trade-offs.
 
 - **DevOps & Cloud:** GitHub Actions, GitLab CI concepts, Terraform, Docker, Kubernetes/EKS, Helm, Prometheus, Grafana, Trivy, AWS (VPC, IAM, EC2, RDS, ECR, Lambda)
 - **Backend:** Java 21 + Quarkus, C#/.NET, Node.js, PHP/Laravel, REST APIs, PostgreSQL, MySQL, Redis, Kafka concepts
@@ -75,18 +94,18 @@ I build and test software end to end: from a clean API and a tested data model, 
 
 > I document what I build, test what I ship, and keep the feedback loop short.
 
-## 2026 Flagship Labs
+## 🚀 2026 Flagship Labs
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| **[devops-platform-2026](https://github.com/devarent/devops-platform-2026)** | Production-style AWS platform: VPC/EKS/RDS via Terraform, Helm, Kustomize, GitHub Actions, Prometheus/Grafana, Trivy, SLOs, runbooks, incident response, cost notes. | Terraform ┬╖ AWS ┬╖ EKS ┬╖ Helm ┬╖ Docker ┬╖ Prometheus |
-| **[backend-service-2026](https://github.com/devarent/backend-service-2026)** | Java 21 + Quarkus order service with PostgreSQL, Flyway, Redis, OpenAPI, validation, problem-detail errors, integration tests, Docker and Kubernetes. | Java ┬╖ Quarkus ┬╖ PostgreSQL ┬╖ Redis ┬╖ Maven |
-| **[qa-automation-2026](https://github.com/devarent/qa-automation-2026)** | Digital-banking QA lab: Playwright E2E + API tests, SQL/data-integrity checks, idempotency and ledger validation, k6 load tests, CI reporting. | Playwright ┬╖ Node.js ┬╖ SQL ┬╖ k6 ┬╖ GitHub Actions |
-| **[hris-itk-laravel](https://github.com/devarent/hris-itk-laravel)** | Full HRIS web application: attendance, performance review, payroll, reporting, role-based access, and a hardened local installer. | Laravel ┬╖ PHP ┬╖ MySQL ┬╖ Tailwind |
-| **[aws-ec2-web-hosting-part-1](https://github.com/devarent/aws-ec2-web-hosting-part-1)** | Next.js production deployment lab with PostgreSQL, Docker, Terraform, Kubernetes/Helm, Nginx, and health checks. | Next.js ┬╖ AWS ┬╖ Terraform ┬╖ Docker |
-| **[cnn](https://github.com/devarent/cnn)** | CNN animal detection integrated with a camera sensor and a telemetry database. | Python ┬╖ TensorFlow ┬╖ PyTorch ┬╖ OpenCV |
+| **[devops-platform-2026](https://github.com/devarent/devops-platform-2026)** | Production-style AWS platform: VPC/EKS/RDS via Terraform, Helm, Kustomize, GitHub Actions, Prometheus/Grafana, Trivy, SLOs, runbooks, incident response, cost notes. | Terraform · AWS · EKS · Helm · Docker · Prometheus |
+| **[backend-service-2026](https://github.com/devarent/backend-service-2026)** | Java 21 + Quarkus order service with PostgreSQL, Flyway, Redis, OpenAPI, validation, problem-detail errors, integration tests, Docker and Kubernetes. | Java · Quarkus · PostgreSQL · Redis · Maven |
+| **[qa-automation-2026](https://github.com/devarent/qa-automation-2026)** | Digital-banking QA lab: Playwright E2E + API tests, SQL/data-integrity checks, idempotency and ledger validation, k6 load tests, CI reporting. | Playwright · Node.js · SQL · k6 · GitHub Actions |
+| **[hris-itk-laravel](https://github.com/devarent/hris-itk-laravel)** | Full HRIS web application: attendance, performance review, payroll, reporting, role-based access, and a hardened local installer. | Laravel · PHP · MySQL · Tailwind |
+| **[aws-ec2-web-hosting-part-1](https://github.com/devarent/aws-ec2-web-hosting-part-1)** | Next.js production deployment lab with PostgreSQL, Docker, Terraform, Kubernetes/Helm, Nginx, and health checks. | Next.js · AWS · Terraform · Docker |
+| **[cnn](https://github.com/devarent/cnn)** | CNN animal detection integrated with a camera sensor and a telemetry database. | Python · TensorFlow · PyTorch · OpenCV |
 
-## Database Labs (2026)
+## 🗃️ Database Labs (2026)
 
 **26 database engines, one index.** [database-labs](https://github.com/devarent/database-labs) maps every lab; [database-labs-demo](https://github.com/devarent/database-labs-demo) is a runnable FastAPI + PostgreSQL 17 app with real writes, seven tests against PostgreSQL, and Render/Fly/VPS deploy configs.
 
@@ -100,7 +119,7 @@ I build and test software end to end: from a clean API and a tested data model, 
 
 Every Docker lab binds its ports to `127.0.0.1` and ships with the shared [remote-access guide](https://github.com/devarent/database-labs/blob/main/REMOTE-ACCESS.md): WireGuard/SSH tunnels, managed free tiers, and a hardened public HTTP demo pattern.
 
-## Skill Matrix
+## 🧠 Skill Matrix
 
 | Area | Working knowledge |
 | --- | --- |
@@ -114,7 +133,7 @@ Every Docker lab binds its ports to `127.0.0.1` and ships with the shared [remot
 | **Quality engineering** | Test strategy/plan/cases, STLC/SDLC, Playwright, API contract checks, SQL validation, regression/E2E, k6, defect reporting, traceability |
 | **AI & data engineering** | Python, pandas, scikit-learn, PyTorch/TensorFlow, CNN vision, LLM integration concepts, AI-assisted SDLC, Databricks/Snowflake reference work |
 
-## Stack Coverage
+## 🧩 Stack Coverage
 
 Every technology below has a hands-on repository. This is a map of where to find working code, not a list of claims.
 
@@ -133,148 +152,18 @@ Every technology below has a hands-on repository. This is a map of where to find
 | Databricks / Snowflake | [snowflake-databricks](https://github.com/devarent/snowflake-databricks), [devhub-modernized](https://github.com/devarent/devhub-modernized) | Integration notes and developer reference |
 | AWS | [aws-ec2-web-hosting-part-1](https://github.com/devarent/aws-ec2-web-hosting-part-1), [aws-rds](https://github.com/devarent/aws-rds), [lambda-localstack-lab](https://github.com/devarent/lambda-localstack-lab) | EC2, RDS, Lambda, VPC/IAM, CI/CD |
 
-## Tech Stack
-
-Technologies I work with, learn, and explore ΓÇö grouped by layer. Every hands-on claim above maps to a repository in this profile.
-
-### Languages
-
-<div>
-<img src="https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
-</div>
-
-### Frontend & Desktop
-
-<div>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black" alt="Vue" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=black" alt="Nuxt" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-<img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri" />
-<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-<img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white" alt="Less" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-</div>
-
-### Database & Storage
-
-<div>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/DuckDB-FFCB00?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
-<img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra" />
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
-<img src="https://img.shields.io/badge/Firebird-FC521F?style=for-the-badge" alt="Firebird" />
-<img src="https://img.shields.io/badge/IBM%20DB2-1F70C1?style=for-the-badge" alt="IBM DB2" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-<img src="https://img.shields.io/badge/CockroachDB-7B52C0?style=for-the-badge" alt="CockroachDB" />
-<img src="https://img.shields.io/badge/IRIS-3B82F6?style=for-the-badge" alt="IRIS" />
-<img src="https://img.shields.io/badge/Databricks%20SQL-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks SQL" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" />
-<img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="Redshift" />
-<img src="https://img.shields.io/badge/Apache%20Kylin-F59E0B?style=for-the-badge" alt="Apache Kylin" />
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-<img src="https://img.shields.io/badge/VictoriaMetrics-3483EB?style=for-the-badge" alt="VictoriaMetrics" />
-<img src="https://img.shields.io/badge/Databend-4F46E5?style=for-the-badge" alt="Databend" />
-<img src="https://img.shields.io/badge/TDengine-1B8FD4?style=for-the-badge" alt="TDengine" />
-<img src="https://img.shields.io/badge/Teradata-0055A6?style=for-the-badge" alt="Teradata" />
-</div>
-
-### Messaging & Streaming
-
-<div>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-<img src="https://img.shields.io/badge/RocketMQ-FF6A00?style=for-the-badge&logoColor=white" alt="RocketMQ" />
-<img src="https://img.shields.io/badge/Pulsar-188FFF?style=for-the-badge&logo=apachepulsar&logoColor=white" alt="Pulsar" />
-<img src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" alt="Flink" />
-</div>
-
-### DevOps & Cloud Native
-
-<div>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-</div>
-
-### Tools & Platforms
-
-<div>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-<img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logoColor=white" alt="Tmux" />
-<img src="https://img.shields.io/badge/Homebrew-FAB316?style=for-the-badge&logo=homebrew&logoColor=black" alt="Homebrew" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
-</div>
-
-## Selected Work
+## 🔬 Selected Work
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Quantum Hybrid Resornizations](https://github.com/devarent/quantum-hybrid-ml-databricks-snowflake) | Hybrid quantum/classical machine learning with Databricks and Snowflake integration. | Python ┬╖ PyTorch ┬╖ Quantum ML |
-| [Quantum Hybrid Diffusion Models](https://github.com/devarent/quantum-hybrid-diffusion-models) | Quantum-enhanced generative diffusion experiments. | Python ┬╖ Jupyter ┬╖ Quantum ML |
-| [UTS EC2 Amazon Linux](https://github.com/devarent/uts-ec2-amazon-linux) | Full cloud deployment lab: EC2, Docker, Terraform, Helm, and CI/CD. | AWS ┬╖ Docker ┬╖ Helm ┬╖ Actions |
-| [Credit Card Fraud Detection](https://github.com/devarent/credit-card-fraud) | Fraud classification with imbalanced-dataset handling. | Python ┬╖ scikit-learn ┬╖ Jupyter |
-| [Email Spam Detector](https://github.com/devarent/email-spam-detector) | NLP pipeline for spam classification. | Python ┬╖ NLP ┬╖ scikit-learn |
-| [Kubernetes Manifests](https://github.com/devarent/k8s) | Deployment manifests for HRIS, Laravel, and workspace services. | Kubernetes ┬╖ YAML ┬╖ DevOps |
+| [Quantum Hybrid Resornizations](https://github.com/devarent/quantum-hybrid-ml-databricks-snowflake) | Hybrid quantum/classical machine learning with Databricks and Snowflake integration. | Python · PyTorch · Quantum ML |
+| [Quantum Hybrid Diffusion Models](https://github.com/devarent/quantum-hybrid-diffusion-models) | Quantum-enhanced generative diffusion experiments. | Python · Jupyter · Quantum ML |
+| [UTS EC2 Amazon Linux](https://github.com/devarent/uts-ec2-amazon-linux) | Full cloud deployment lab: EC2, Docker, Terraform, Helm, and CI/CD. | AWS · Docker · Helm · Actions |
+| [Credit Card Fraud Detection](https://github.com/devarent/credit-card-fraud) | Fraud classification with imbalanced-dataset handling. | Python · scikit-learn · Jupyter |
+| [Email Spam Detector](https://github.com/devarent/email-spam-detector) | NLP pipeline for spam classification. | Python · NLP · scikit-learn |
+| [Kubernetes Manifests](https://github.com/devarent/k8s) | Deployment manifests for HRIS, Laravel, and workspace services. | Kubernetes · YAML · DevOps |
 
-## Engineering References
+## 📚 Engineering References
 
 Carefully credited mirrors used to study established open-source systems. Upstream authors retain ownership; each repository links to its source and license.
 
@@ -302,7 +191,7 @@ These are the upstream projects I study and use as references; they are linked, 
 | [bundle-examples](https://github.com/databricks/bundle-examples) | Databricks Asset Bundle patterns for deployment |
 | [terraform-databricks-sra](https://github.com/databricks/terraform-databricks-sra) | Security reference architecture for regulated environments |
 
-## Now
+## ⚡ Now
 
 <div align="center">
 
@@ -312,9 +201,9 @@ These are the upstream projects I study and use as references; they are linked, 
 
 </div>
 
-> What I'm focused on right now: keeping the 2026 labs runnable and tested, studying how [DBX](https://github.com/t8y2/dbx) ships a 25 MB Rust + Tauri desktop app (my fork lives at [devarent/dbx](https://github.com/devarent/dbx)), and tightening Kubernetes, Terraform, SQL, and Playwright fundamentals ΓÇö in the open, one repo at a time.
+> What I'm focused on right now: keeping the 2026 labs runnable and tested, studying how [DBX](https://github.com/t8y2/dbx) ships a 25 MB Rust + Tauri desktop app (my fork lives at [devarent/dbx](https://github.com/devarent/dbx)), and tightening Kubernetes, Terraform, SQL, and Playwright fundamentals — in the open, one repo at a time.
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -323,9 +212,9 @@ These are the upstream projects I study and use as references; they are linked, 
 
 </div>
 
-## Explore
+## 🔎 Explore
 
-[Browse all repositories](https://github.com/devarent?tab=repositories) ┬╖ [Role fit](ROLE-FIT.md) ┬╖ [Profile](https://github.com/devarent) ┬╖ [Issues and requests](https://github.com/devarent/devarent/issues)
+[Browse all repositories](https://github.com/devarent?tab=repositories) · [Role fit](ROLE-FIT.md) · [Profile](https://github.com/devarent) · [Issues and requests](https://github.com/devarent/devarent/issues)
 
 <div align="center">
 
@@ -339,12 +228,14 @@ These are the upstream projects I study and use as references; they are linked, 
 
 [![CI](https://github.com/devarent/devarent/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/devarent/actions/workflows/ci.yml)
 
-[Contributing](CONTRIBUTING.md) ┬╖ [Security Policy](SECURITY.md) ┬╖ [Code of Conduct](CODE_OF_CONDUCT.md)
+[Contributing](CONTRIBUTING.md) · [Security Policy](SECURITY.md) · [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ---
 
 <!-- dbx-connections -->
-## DBX Connections
+<details>
+<summary>🔌 <b>DBX Connections</b> — 23 decorative reference badges (klik untuk buka)</summary>
+<br>
 
 <div align="center">
 
@@ -375,21 +266,15 @@ These are the upstream projects I study and use as references; they are linked, 
 
 </div>
 
-<sub>Connection names shown in the DBX sidebar - decorative reference badges.</sub>
+<sub>Connection names shown in the DBX sidebar — decorative reference badges.</sub>
+
+</details>
 
 ---
 
 <!-- tech-stack-wall -->
-## Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-</div>
-
 <details>
-<summary><b>Full Tech Stack Wall</b></summary>
+<summary>🛠️ <b>Full Tech Stack Wall</b> — languages, frontend, databases, streaming, DevOps &amp; tooling (klik untuk buka)</summary>
 <br>
 
 <div align="center">
@@ -503,6 +388,11 @@ These are the upstream projects I study and use as references; they are linked, 
 <img src="https://img.shields.io/badge/DATA%20STACK-26-22d3ee?style=for-the-badge" alt="26 data technologies" />
 <img src="https://img.shields.io/badge/CLOUD-AWS%20%2B%20K8s-ff9900?style=for-the-badge" alt="AWS and Kubernetes" />
 <img src="https://img.shields.io/badge/IaC-Terraform-844fba?style=for-the-badge" alt="Terraform" />
+
+<br><br>
+
+[![Source](https://img.shields.io/badge/Source-repo--atlas--next-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devarent/repo-atlas-next)
+[![Live dashboard](https://img.shields.io/badge/Dashboard-localhost%3A3100-22d3ee?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/devarent/repo-atlas-next#jalankan)
 
 <br><br>
 
