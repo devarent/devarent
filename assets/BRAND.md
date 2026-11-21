@@ -9,9 +9,13 @@ A small, reusable identity for the profile and project READMEs.
 | `brand-banner.svg` | Wide profile banner (1280×640). Preferred for README headers. |
 | `brand-banner.png` | Raster banner (1280×640). |
 | `social-preview.png` | Repository social preview (1280×640). Unggah lewat Settings → Social preview. |
-| `brand-logo.svg` | Square AF monogram (512×512). Use for avatars, repo headers, and favicons. |
-| `brand-logo.png` | Raster monogram (512×512). |
-| `avatar.png` | GitHub profile avatar (512×512). Unggah lewat Settings → Profile → Avatar. |
+| `brand-logo.svg` | Square AF monogram (512×512), outlined with gradient stroke + orbit rings. Use for avatars, repo headers, and favicons. |
+| `brand-logo.png` | Raster monogram (1024×1024). |
+| `avatar.png` | GitHub profile avatar (1024×1024), v3 mark. Unggah lewat Settings → Profile → Avatar. |
+
+## Mark v3
+
+Logo saat ini (versi 3) memakai monogram **AF** dengan **gradient outline** (cyan → indigo → violet) dan **orbit rings** di sekitarnya, di atas latar navy dalam rounded square. Ini menggantikan versi 2 (solid fill + grid) yang kurang disukai.
 
 ## Palette
 
